@@ -1,5 +1,5 @@
 # Interceptor
-Android debugging area for silent sms detection
+Android debugging area for silent sms detection via logcat and other areas of phone.
 
 Simple android logcat monitor to check for unique low level sms data to detect TYPE 0 silent sms etc.
 
